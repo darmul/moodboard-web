@@ -1,0 +1,4 @@
+const getArticles = () => {
+    return [        
+    ];
+}
